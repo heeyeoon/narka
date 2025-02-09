@@ -1,0 +1,30 @@
+@import url("https://webfontworld.github.io/pretendard/Pretendard.css");
+
+* {
+  font-family: "Pretendard";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #3a3026;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img,
+svg,
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
